@@ -1,0 +1,19 @@
+.navbar {
+  background-color: rgb(17, 111, 111);
+  overflow-x: hidden;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+  font-size: 19px;
+}
+
+.navbar-logo {
+  width: 8% !important;
+}
+
+.my-navbar-toggler {
+  border: none !important;
+  outline: none !important;
+  background-color: transparent !important;
+}

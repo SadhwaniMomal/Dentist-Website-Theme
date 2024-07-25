@@ -1,0 +1,27 @@
+.hero-section {
+  background-color: #e0f7fa;
+  padding: 50px 0;
+  overflow-x: hidden;
+}
+
+.text-content {
+  padding: 40px;
+}
+.text-content h2 {
+  background-color: white;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+/* .image-overlay {
+  background: url("../images/hero-left.png") no-repeat center center;
+  background-size: cover;
+  height: 70vh !important ; 
+  width: 100%;
+} */

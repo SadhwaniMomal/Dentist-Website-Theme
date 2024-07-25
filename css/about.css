@@ -1,0 +1,36 @@
+.who-are-we {
+  display: flex;
+  align-items: center;
+  background-color: ghostwhite;
+}
+
+.who-are-we .icon {
+  background-color: #e6f7ff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  color: #0a99ab;
+}
+
+.circle-image {
+  width: 350px;
+  height: 350px;
+  background-image: url("../images/d-2.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  position: relative;
+}
+.video-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
